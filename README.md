@@ -1,4 +1,4 @@
-datasiencecoursera
+datasciencecoursera
 ==================
 
 Coursera
